@@ -11,5 +11,5 @@ def multiply(x,y):
     return x*y
 
 def divide(x,y):
-    """Divide Function"""
+    """Divide Function sub branch"""
     return x/y
